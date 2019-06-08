@@ -8,6 +8,11 @@ Công Dương
 Quang Minh  
 Tỷ Tỷ
 ## Usage:
+Required:
+```
+numpy
+pandas
+```
 Run:
 ```shell
 python extra.py <vector verified path> <vector test path>
