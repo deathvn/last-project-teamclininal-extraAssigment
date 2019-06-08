@@ -10,6 +10,7 @@ Tỷ Tỷ
 ## Usage:
 Required:
 ```
+python3
 numpy
 pandas
 ```
