@@ -1,12 +1,12 @@
 # Team: Last Project  
 Extra Credit Assignment: vector file validation.
 ## Members:  
-Khả Phiêu  
-Ngọc Hải  
-Anh Vọng  
-Công Dương  
-Quang Minh  
-Tỷ Tỷ
+15520614 - Khả Phiêu  
+15520182 - Ngọc Hải  
+15521025 - Anh Vọng  
+15520148 - Công Dương  
+15520494 - Quang Minh  
+15520996 - Tỷ Tỷ
 ## Usage:
 Required:
 ```
