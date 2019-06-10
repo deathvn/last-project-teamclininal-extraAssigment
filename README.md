@@ -1,4 +1,4 @@
-We have to reupload Goal 2 ![basket2vec.py](basket2vec.py)  
+We have to reupload Goal 2 [basket2vec.py](basket2vec.py)  
 Fixed bug: "basket2vec.py" work well with Ubuntu, but add unnecessary newline character when run on Windows machines.  
 Now "basket2vec.py" works both well.
 # Team: Last Project  
